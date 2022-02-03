@@ -173,6 +173,7 @@ You should see the following directory structure.
 │   ├── data                        <- Sample additional data (non-code) which can be packaged. Just an example, delete in production
 │   │   ├── README.md
 │   │   └── look_and_say.dat
+│   ├── functions.py                <- Python file with functions called in module
 │   └── tests                       <- Unit test directory with sample tests
 │       ├── __init__.py
 │       └── test_molecool.py
